@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DCDC_Buck_Module3A
+#
+DEF DCDC_Buck_Module3A X 0 40 Y Y 1 F N
+F0 "X" 0 0 50 H V C CNN
+F1 "DCDC_Buck_Module3A" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -350 -50 150 -250 0 1 0 f
+X IN- 1 -450 -200 100 R 50 50 1 1 I
+X OUT- 2 250 -200 100 L 50 50 1 1 O
+X OUT+ 3 250 -100 100 L 50 50 1 1 O
+X IN+ 4 -450 -100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
