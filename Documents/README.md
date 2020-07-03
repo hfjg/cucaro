@@ -1,5 +1,5 @@
-# HEROVER-1
-Rover similar to SAWPPY
+# CuCaRo
+Curiosity inspired Camera Carrying Rover, heavily inspired by [[SAWPPY]]
 
 ## Body
 ## Wheel Brackets
