@@ -36,12 +36,14 @@ module spacer(h1=1, d1=12, h2=3, d2=12, di=8.2, chamfer=1){
         translate([0,0,-eps])cylinder(d=di, h=h1+h2+2*eps);
     }
 }
-//!internalBevelGear();
+
+!internalBevelGear();
 module internalBevelGear(){
     difference(){
         union(){
             translate([0,0,4.5])pfeilkegelrad(modul=1, zahnzahl=40, teilkegelwinkel=45, zahnbreite=6, bohrung=2, eingriffswinkel=20, schraegungswinkel=+30);
             cylinder(d1=40-2*4.5, d2=40, h=4.5);
+            cylinder(d=30.4, h=9.75);
         }
         cylinder(d=12, h=50, center=true);
         translate([0,0,-eps])cylinder(d=22.2, h=7.1);
@@ -59,6 +61,7 @@ module halfshaftBevelGear(){
         cylinder(d=8.2, h=50, center=true);
         translate([0,0,4])cylinder($fn=6, d=13/cos(30)+0.4, h=5.5);
         translate([0,0,-eps])cylinder(d1=8.2+2, d2=8.2, h=1);
+        circleOf(num=8, r=11)scale([2.2,1.6,1])cylinder(d=3, h=30, center=true);
     }
 }
 
@@ -117,7 +120,7 @@ module box(upper=1, lower=1){
 color("yellow")box(0,1);
 
 for (phi=[0,180]) rotate([0,0,phi]){
-    translate([23.5,0,0])rotate([0,-90,0])halfshaftBevelGear();
+    translate([23.5,0,0])rotate([0,-90,0]) halfshaftBevelGear();
 }
 for (phi=[0,180]) rotate([0,0,phi]){
     translate([0,-23.5,0])rotate([-90,0,0])internalBevelGear();

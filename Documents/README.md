@@ -1,5 +1,5 @@
 # CuCaRo
-Curiosity inspired Camera Carrying Rover, heavily inspired by [[SAWPPY]]
+Curiosity inspired Camera Carrying Rover, heavily inspired from Roger Chen's [SAWPPY](https://github.com/Roger-random/Sawppy_Rover).
 
 ## Body
 ## Wheel Brackets
