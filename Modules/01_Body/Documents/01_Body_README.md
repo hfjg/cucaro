@@ -11,3 +11,4 @@ Since CuCaRo is focused on function (and not on design or appearance of the orig
 ## Electronics
 
 ## Software
+The "main" software on the Raspberry Pi is a collection of [node-red](https://nodered.org/) flows, both for device control and for the user interface.
