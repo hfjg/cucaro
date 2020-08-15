@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="boxLayout.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg96"
+   version="1.1"
+   viewBox="0 0 420 594"
+   height="594mm"
+   width="420mm">
+  <defs
+     id="defs90" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1032"
+     inkscape:window-width="1920"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1177.9078"
+     inkscape:cx="815.4012"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       spacingy="5"
+       spacingx="5"
+       units="mm"
+       id="grid264"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata93">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="117.5"
+       x="57.5"
+       height="399"
+       width="299"
+       id="rect2744"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="134.5"
+       x="74.5"
+       height="365"
+       width="265"
+       id="rect2740"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g61"
+       transform="rotate(90,182.41932,141.45568)">
+      <rect
+         ry="3"
+         rx="3"
+         y="123.87499"
+         x="190.96364"
+         height="84"
+         width="55"
+         id="rect33"
+         style="fill:#008000;stroke:#000000;stroke-width:0.999998" />
+      <g
+         id="g2838"
+         transform="translate(562.80546,-8.8475872)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-341.60217"
+           y="142.33278"
+           id="text2754"><tspan
+             sodipodi:role="line"
+             id="tspan2752"
+             x="-341.60217"
+             y="142.33278"
+             style="stroke-width:0.264583px">CSI</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-151.84418"
+           y="-321.28323"
+           id="text2758"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="-151.84418"
+             y="-321.28323"
+             style="stroke-width:0.264583px"
+             id="tspan2760">GPIO</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-357.38312"
+           y="157.50044"
+           id="text2766"><tspan
+             sodipodi:role="line"
+             id="tspan2764"
+             x="-357.38312"
+             y="157.50044"
+             style="stroke-width:0.264583px">USBC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-336.84186"
+           y="212.20314"
+           id="text2770"><tspan
+             sodipodi:role="line"
+             id="tspan2768"
+             x="-336.84186"
+             y="212.20314"
+             style="stroke-width:0.264583px">2xUSB</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-324.36148"
+           y="212.27934"
+           id="text2774"><tspan
+             sodipodi:role="line"
+             id="tspan2772"
+             x="-324.36148"
+             y="212.27934"
+             style="stroke-width:0.264583px">ETH</tspan></text>
+        <text
+           id="text2770-3"
+           y="212.20314"
+           x="-352.98767"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.264583px"
+             y="212.20314"
+             x="-352.98767"
+             id="tspan2768-6"
+             sodipodi:role="line">2xUSB</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-355.89285"
+           y="169.66156"
+           id="text2796"><tspan
+             sodipodi:role="line"
+             id="tspan2794"
+             x="-355.89285"
+             y="169.66156"
+             style="stroke-width:0.264583px">µHDMI</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-358.07089"
+           y="190.57178"
+           id="text2800"><tspan
+             sodipodi:role="line"
+             id="tspan2798"
+             x="-358.07089"
+             y="190.57178"
+             style="stroke-width:0.264583px">Audio</tspan></text>
+        <text
+           id="text2796-7"
+           y="178.9203"
+           x="-355.89285"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.264583px"
+             y="178.9203"
+             x="-355.89285"
+             id="tspan2794-5"
+             sodipodi:role="line">µHDMI</tspan></text>
+      </g>
+      <text
+         id="text37"
+         y="171.5748"
+         x="227.2252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';stroke-width:0.264583px"
+           y="171.5748"
+           x="227.2252"
+           id="tspan35"
+           sodipodi:role="line">PI4</tspan></text>
+    </g>
+    <g
+       transform="translate(0,-45)"
+       id="g337">
+      <rect
+         style="fill:#803300;stroke:#000000;stroke-width:1"
+         id="rect318"
+         width="264"
+         height="11"
+         x="75"
+         y="259"
+         rx="3.0000048"
+         ry="2.8421709e-14" />
+      <rect
+         ry="2.8421709e-14"
+         rx="3.0000048"
+         y="320"
+         x="75"
+         height="11"
+         width="264"
+         id="rect318-3"
+         style="fill:#803300;stroke:#000000;stroke-width:1" />
+    </g>
+    <rect
+       style="fill:#803300;stroke:#000000;stroke-width:1"
+       id="rect318-7"
+       width="264"
+       height="49"
+       x="75"
+       y="350"
+       rx="3.0000048"
+       ry="2.8421709e-14" />
+  </g>
+</svg>
